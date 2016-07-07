@@ -1,0 +1,12 @@
+c:\users\ann\documents\visual studio 2015\Projects\VideoRotate\VideoRotate\bin\Debug\VideoRotate.exe.config
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\bin\Debug\VideoRotate.exe
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\bin\Debug\VideoRotate.pdb
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\bin\Debug\AForge.Video.dll
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\bin\Debug\AForge.Video.FFMPEG.dll
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\bin\Debug\AForge.dll
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\obj\Debug\VideoRotate.csprojResolveAssemblyReference.cache
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\obj\Debug\VideoRotate.Form1.resources
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\obj\Debug\VideoRotate.Properties.Resources.resources
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\obj\Debug\VideoRotate.csproj.GenerateResource.Cache
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\obj\Debug\VideoRotate.exe
+C:\Users\Ann\Documents\Visual Studio 2015\Projects\VideoRotate\VideoRotate\obj\Debug\VideoRotate.pdb
